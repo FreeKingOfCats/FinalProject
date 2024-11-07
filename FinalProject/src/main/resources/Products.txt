@@ -1,0 +1,99 @@
+id: 001
+name: Camiseta Básica
+description: Camiseta de algodón blanco de manga corta para uso diario.
+price: 40
+
+id: 002
+name: Jeans Clásicos
+description: Vaqueros azul oscuro de corte recto con cinco bolsillos.
+price: 90
+
+id: 003
+name: Chaqueta Deportiva
+description: Chaqueta impermeable ligera con capucha, ideal para correr.
+price: 200
+
+id: 004
+name: Vestido de Verano
+description: Vestido floreado de tirantes con falda suelta y colores vibrantes.
+price: 30
+
+id: 005
+name: Sudadera con Capucha
+description: Sudadera gris con capucha, suave y cómoda para climas fríos.
+price: 120
+
+id: 006
+name: Blusa Elegante
+description: Blusa de seda rosa con detalles de encaje para ocasiones especiales.
+price: 95
+
+id: 007
+name: Pantalón Formal
+description: Pantalón negro de vestir con un corte ajustado, ideal para la oficina.
+price: 100
+
+id: 008
+name: Falda Plisada
+description: Falda negra plisada de largo medio, perfecta para un look casual.
+price: 50
+
+id: 009
+name: Camisa a Cuadros
+description: Camisa de franela a cuadros rojos y negros, ideal para el otoño.
+price: 65
+
+id: 010
+name: Chaqueta de Cuero
+description: Chaqueta de cuero negro con cierre asimétrico y bolsillos.
+price: 250
+
+id: 011
+name: Abrigo Largo
+description: Abrigo de lana largo en color marrón, perfecto para el invierno.
+price: 240
+
+id: 012
+name: Short Deportivo
+description: Shorts de poliéster ligeros, ideales para actividades físicas.
+price: 35
+
+id: 013
+name: Bufanda de Lana
+description: Bufanda tejida a mano en tonos grises para mantener el calor.
+price: 20
+
+id: 014
+name: Polo Rayado
+description: Polo de algodón con rayas horizontales azul y blanco.
+price: 70
+
+id: 015
+name: Zapatos Deportivos
+description: Zapatillas ligeras con suela de goma, perfectas para correr.
+price: 130
+
+id: 016
+name: Sombrero de Paja
+description: Sombrero amplio de paja, ideal para protegerse del sol.
+price: 15
+
+id: 017
+name: Chaleco Acolchado
+description: Chaleco acolchado en tonos verdes con cierre frontal.
+price: 45
+
+id: 018
+name: Traje de Baño
+description: Traje de baño de una pieza en color azul marino.
+price: 25
+
+id: 019
+name: Reloj de Pulsera
+description: Reloj analógico elegante con correa de cuero.
+price: 500
+
+id: 020
+name: Gafas de Sol
+description: Gafas de sol con montura metálica y cristales polarizados.
+price: 110
