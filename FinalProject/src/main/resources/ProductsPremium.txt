@@ -1,0 +1,99 @@
+id: 021
+name: Camiseta de Edición Limitada
+description: Camiseta blanca de algodón firmada por Giorgio Armani.
+price: 400
+
+id: 022
+name: Jeans de Brad Pitt
+description: Jeans desgastados usados por Brad Pitt en una película.
+price: 900
+
+id: 023
+name: Chaqueta Exclusiva de Usain Bolt
+description: Chaqueta impermeable usada por Usain Bolt durante un campeonato.
+price: 1200
+
+id: 024
+name: Vestido de Gala Vintage
+description: Vestido de gala usado en la alfombra roja de los Oscars 1987.
+price: 2500
+
+id: 025
+name: Sudadera del Concierto de Linkin Park
+description: Sudadera de algodón firmada por el artista en su última gira.
+price: 800
+
+id: 026
+name: Blusa de Pasarela
+description: Blusa de seda usada en la semana de la moda de Milán.
+price: 750
+
+id: 027
+name: Pantalón de Lino Exclusivo
+description: Pantalón de lino hecho a medida para un evento de la alta sociedad.
+price: 1100
+
+id: 028
+name: Falda de Karl Lagerfeld
+description: Falda de edición limitada creada por Karl Lagerfeld.
+price: 950
+
+id: 029
+name: Camisa Histórica
+description: Camisa usada por Madonna en los años 80 durante un concierto.
+price: 1400
+
+id: 030
+name: Chaqueta de Cuero Icónica
+description: Chaqueta de cuero usada en la película de culto "Blade Runner".
+price: 3000
+
+id: 031
+name: Abrigo de Lana Exclusivo
+description: Abrigo de lana tejido a mano en los Alpes suizos.
+price: 2800
+
+id: 032
+name: Shorts de Carl Lewis
+description: Shorts deportivos autografiados por Carl Lewis, campeón olímpico.
+price: 700
+
+id: 033
+name: Bufanda de Cashmere de Lujo
+description: Bufanda de cashmere importado, extremadamente suave y caliente.
+price: 500
+
+id: 034
+name: Polo de Celebración de Rafa Nadal
+description: Polo usado en el partido de jubilación de Rafa Nadal.
+price: 600
+
+id: 035
+name: Zapatillas de Fútbol de Lionel Messi
+description: Zapatillas de fútbol firmadas por Lionel Messi después de un partido histórico.
+price: 1600
+
+id: 036
+name: Sombrero de Película
+description: Sombrero usado por un actor en la película "Oppenheimer".
+price: 450
+
+id: 037
+name: Chaleco de Colección de Tom Ford
+description: Chaleco acolchado de una colección exclusiva de Tom Ford.
+price: 550
+
+id: 038
+name: Traje de Baño de Gisele Bündchen
+description: Traje de baño usado por Gisele Bündchen en una sesión fotográfica.
+price: 350
+
+id: 039
+name: Reloj de Edición Especial
+description: Reloj de pulsera con detalles de oro, edición limitada.
+price: 5000
+
+id: 040
+name: Gafas de Sol de Timothée Chalamet
+description: Gafas de sol usadas por Timothée Chalamet en varias apariciones.
+price: 1000
